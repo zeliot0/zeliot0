@@ -1,8 +1,8 @@
-<!-- Cyberpunk profile README for github.com/zeliot0 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:00b8ff,100:ff00c8&height=220&section=header&text=zeliot0&fontSize=80&fontColor=0a0a0a&animation=fadeIn&fontAlignY=38&desc=//%20security%20%C2%B7%20systems%20%C2%B7%20AI&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff9f,50:00b8ff,100:ff00c8&height=260&section=header&text=ZELIOT0&fontSize=90&fontColor=0a0a0a&animation=twinkling&fontAlignY=40&desc=%5B%20cybersecurity%20%C2%B7%20infrastructure%20%C2%B7%20local%20AI%20%5D&descAlignY=62&descSize=20" width="100%" alt="header"/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=00FF9F&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%3E+initializing+zeliot0...;%3E+hello+world%2C+I'm+Salim+%F0%9F%91%8B;%3E+student+%40+ESPRIT+%7C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;%3E+I+build+monitoring+%26+security+tools;%3E+I+run+AI+agents+locally;%3E+I+turn+coffee+into+code+%E2%98%95;%3E+access+granted+%E2%9C%94" alt="typing"/>
 
 ```
  ███████╗███████╗██╗     ██╗ ██████╗ ████████╗ ██████╗
@@ -11,72 +11,142 @@
   ███╔╝  ██╔══╝  ██║     ██║██║   ██║   ██║   ████╔╝██║
  ███████╗███████╗███████╗██║╚██████╔╝   ██║   ╚██████╔╝
  ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝    ╚═════╝
+      [ SYSTEM ONLINE ]  ░▒▓█ v2026.10 █▓▒░
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+Salim+%7C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;%3E+student+%40+ESPRIT;%3E+building+security+%26+monitoring+tools;%3E+running+local+AI+agents;%3E+sudo+make+cool+things" alt="typing"/></a>
-
-![Status](https://img.shields.io/badge/status-ONLINE-00ff9f?style=for-the-badge&labelColor=0a0a0a)
-![Location](https://img.shields.io/badge/loc-TUNISIA-00b8ff?style=for-the-badge&labelColor=0a0a0a)
-![School](https://img.shields.io/badge/ESPRIT-STUDENT-ff00c8?style=for-the-badge&labelColor=0a0a0a)
-![Langs](https://img.shields.io/badge/FR%20%7C%20AR%20%7C%20EN-fluent-ffe600?style=for-the-badge&labelColor=0a0a0a)
+<img src="https://komarev.com/ghpvc/?username=zeliot0&label=VISITORS&color=00ff9f&style=for-the-badge&labelColor=0a0a0a" alt="views"/>
+<img src="https://img.shields.io/github/followers/zeliot0?label=FOLLOWERS&style=for-the-badge&color=00b8ff&labelColor=0a0a0a" alt="followers"/>
+<img src="https://img.shields.io/badge/ESPRIT-STUDENT-ff00c8?style=for-the-badge&labelColor=0a0a0a" alt="esprit"/>
+<img src="https://img.shields.io/badge/FR%20%7C%20AR%20%7C%20EN-FLUENT-ffe600?style=for-the-badge&labelColor=0a0a0a" alt="langs"/>
 
 </div>
 
 ---
 
-## `>_ ./about_me.sh`
+## `🖥️  root@zeliot0:~# neofetch`
 
-```bash
-#!/bin/bash
-cat << "EOF"
-┌──────────────────────────────────────────────────────┐
-│  USER      : Salim (zeliot0)                         │
-│  ORIGIN    : Tunisia                                 │
-│  SCHOOL    : ESPRIT                                  │
-│  FOCUS     : Cybersecurity · Infra · Local AI        │
-│  LANGUAGES : Français · العربية · English            │
-│  MOTTO     : "If it can be monitored, monitor it."   │
-└──────────────────────────────────────────────────────┘
-EOF
+```text
+        .--.            zeliot0@earth
+       |o_o |           ─────────────────────────────
+       |:_/ |           OS ........ Student / Builder
+      //   \ \          HOST ...... ESPRIT, Tunisia 🇹🇳
+     (|     | )         ROLE ...... Dev + SysAdmin hybrid
+    /'\_   _/`\         SHELL ..... PowerShell / Bash
+    \___)=(___/         EDITOR .... Visual Studio / VS Code
+                        LANGS ..... Français · العربية · English
+                        UPTIME .... mostly caffeinated ☕
+                        STATUS .... 🟢 open to collaborate
 ```
 
-## `>_ cat current_projects.log`
+## `📡  ./mission.sh`
+
+> I build **monitoring platforms**, **security tools** and **data pipelines** that turn raw system noise into something you can actually see.
+> By day: dashboards, databases and servers. By night: a local AI terminal agent that lives on my own machine.
 
 ```diff
-+ [ACTIVE]  Security & Network Monitor — Windows desktop app with a Dynamic Island-style UI
-+ [ACTIVE]  NeuroClaw — local cyberpunk AI terminal agent, runs fully offline
-+ [WORK]    Server monitoring platform (.NET / C# / Blazor)
-+ [WORK]    HR analytics dashboards & data pipelines
-- [TODO]    Sleep
++ Security & Network Monitoring
++ Backend Data Pipelines & Dashboards
++ Database Administration
++ Infrastructure & Server Setup
++ Local-first AI Tooling
 ```
 
-## `>_ ls ~/arsenal`
+---
+
+## `⚔️  ls ~/arsenal --all`
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,bash,powershell,js,html,css&theme=dark" alt="languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions,azure,nginx&theme=dark" alt="infra"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,grafana,prometheus,vscode,visualstudio,kali&theme=dark" alt="tools"/>
 
 </div>
 
-## `>_ nmap --stats zeliot0`
+### `📊  skill.exe --level`
+
+```text
+ C# / .NET .............  ████████████████░░░░  80%
+ Blazor ................  ██████████████░░░░░░  70%
+ SQL / DB Admin ........  ███████████████░░░░░  75%
+ Python ................  ██████████████░░░░░░  70%
+ Linux / Sysadmin ......  ██████████████░░░░░░  70%
+ Networking ............  █████████████░░░░░░░  65%
+ Cybersecurity .........  █████████████░░░░░░░  65%
+ Data Pipelines ........  ██████████████░░░░░░  70%
+ Local AI / LLM tools ..  ████████████░░░░░░░░  60%
+ Coffee ................  ████████████████████  100%
+```
+
+---
+
+## `🚀  cat ~/projects/*.md`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Security & Network Monitor
+`Windows` · `Desktop` · `Cybersecurity`
+
+A desktop app with a slick **Dynamic Island–style UI** that watches your system's security and network activity in real time.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NeuroClaw
+`AI` · `Local` · `Terminal`
+
+A **cyberpunk-themed AI terminal agent** that runs entirely on your own machine. No cloud. No leaks. Just vibes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Server Monitoring Platform
+`.NET` · `C#` · `Blazor`
+
+A monitoring platform built for **TIMSOFT** to track server health, metrics and alerts from a single dashboard.
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 HR Analytics Tooling
+`SQL` · `Pipelines` · `Dashboards`
+
+Backend data pipelines and dashboards that turn HR data into clear, decision-ready insights.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `📈  nmap --stats zeliot0`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeliot0&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeliot0&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&text_color=c9d1d9" alt="langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zeliot0&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeliot0&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&text_color=c9d1d9" alt="langs"/>
 
 <img src="https://streak-stats.demolab.com?user=zeliot0&theme=radical&hide_border=true&background=0a0a0a&ring=00ff9f&fire=ff00c8&currStreakLabel=00b8ff" alt="streak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=zeliot0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+
 </div>
 
-## `>_ ./snake.sh`
+### `📉  tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeliot0&bg_color=0a0a0a&color=00ff9f&line=00b8ff&point=ff00c8&area=true&area_color=00b8ff&hide_border=true&radius=10" alt="activity graph" width="100%"/>
+
+</div>
+
+## `🐍  ./snake.sh`
 
 <div align="center">
 
@@ -86,13 +156,54 @@ EOF
 
 ---
 
+## `🗺️  cat roadmap.txt`
+
+```text
+ [██████████] Build monitoring platform for TIMSOFT
+ [████████░░] Security & Network Monitor (Dynamic Island UI)
+ [███████░░░] NeuroClaw — local AI terminal agent
+ [█████░░░░░] Deeper cybersecurity: pentesting & hardening
+ [███░░░░░░░] Contribute to open-source security tools
+ [██░░░░░░░░] Write about what I learn
+```
+
+## `💬  ask --me`
+
+```bash
+$ ask zeliot0 about
+  → .NET / C# / Blazor dashboards
+  → Server monitoring & infrastructure
+  → Database administration
+  → Cybersecurity & network tools
+  → Running AI models locally
+  → Surviving engineering school
+```
+
+## `📫  ./contact.sh`
+
 <div align="center">
+
+<a href="https://github.com/zeliot0"><img src="https://img.shields.io/badge/GitHub-zeliot0-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════╗
+ ║  "Talk is cheap. Show me the code."  — Linus T.  ║
+ ╚══════════════════════════════════════════════════╝
+```
 
 ```
   ┌─[zeliot0@earth]─[~]
   └──╼ $ echo "thanks for stopping by" && exit 0
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:00b8ff,100:00ff9f&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:00b8ff,100:00ff9f&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>

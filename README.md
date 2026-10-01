@@ -1,6 +1,4 @@
-<!-- Cyberpunk profile README for github.com/zeliot0 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:00b8ff,100:ff00c8&height=220&section=header&text=zeliot0&fontSize=80&fontColor=0a0a0a&animation=fadeIn&fontAlignY=38&desc=//%20security%20%C2%B7%20systems%20%C2%B7%20AI&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:00b8ff,100:ff00c8&height=260&section=header&text=SALIM%20%C2%B7%20ZELIOT0&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Computer%20Engineer%20%7C%20Web%20Specialist&descAlignY=60&descSize=22" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -11,63 +9,105 @@
   ███╔╝  ██╔══╝  ██║     ██║██║   ██║   ██║   ████╔╝██║
  ███████╗███████╗███████╗██║╚██████╔╝   ██║   ╚██████╔╝
  ╚══════╝╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝    ╚═════╝
-   [ SECURITY ]===[ INFRA ]===[ WEB ]===[ LOCAL AI ]
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+Salim+%7C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3;%3E+Computer+Engineer+%7C+Web+Specialist;%3E+hardening+systems+%F0%9F%9B%A1%EF%B8%8F;%3E+creating+web+experiences+%F0%9F%8C%90;%3E+architecting+the+future+%F0%9F%8F%97%EF%B8%8F;%3E+sudo+make+cool+things" alt="typing"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=00E5C0&center=true&vCenter=true&width=700&height=50&lines=Hardening+systems+%F0%9F%9B%A1%EF%B8%8F;Creating+web+experiences+%F0%9F%8C%90;Architecting+the+future+%F0%9F%8F%97%EF%B8%8F;Student+%40+ESPRIT+%F0%9F%8E%93+%7C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="typing"/>
 
-![Status](https://img.shields.io/badge/status-ONLINE-00ff9f?style=for-the-badge&labelColor=0a0a0a)
-![Location](https://img.shields.io/badge/loc-TUNISIA-00b8ff?style=for-the-badge&labelColor=0a0a0a)
-![School](https://img.shields.io/badge/ESPRIT-STUDENT-ff00c8?style=for-the-badge&labelColor=0a0a0a)
-![Langs](https://img.shields.io/badge/FR%20%7C%20AR%20%7C%20EN-fluent-ffe600?style=for-the-badge&labelColor=0a0a0a)
-<img src="https://komarev.com/ghpvc/?username=zeliot0&label=VISITORS&color=00ff9f&style=for-the-badge&labelColor=0a0a0a" alt="views"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-00ff9f?style=for-the-badge&labelColor=111" alt="status"/>
+<img src="https://img.shields.io/badge/Based%20in-Tunisia-00b8ff?style=for-the-badge&labelColor=111" alt="location"/>
+<img src="https://img.shields.io/badge/ESPRIT-Student-ff00c8?style=for-the-badge&labelColor=111" alt="school"/>
+<img src="https://img.shields.io/badge/FR%20%C2%B7%20AR%20%C2%B7%20EN-Fluent-ffe600?style=for-the-badge&labelColor=111" alt="languages"/>
+<img src="https://komarev.com/ghpvc/?username=zeliot0&label=Profile%20views&color=00b8ff&style=for-the-badge&labelColor=111" alt="views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9f,50:00b8ff,100:ff00c8&height=3&section=header" width="100%" alt=""/>
+<br/>
 
-## `>_ ./about_me.sh`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=ABOUT%20ME&fontSize=30&fontColor=00ff9f&animation=fadeIn&fontAlignY=50" width="100%" alt="About me"/>
 
-```bash
-#!/bin/bash
-cat << "EOF"
-┌──────────────────────────────────────────────────────┐
-│  USER      : Salim (zeliot0)                         │
-│  ORIGIN    : Tunisia                                 │
-│  SCHOOL    : ESPRIT                                  │
-│  ROLE      : Computer Engineer | Web Specialist      │
-│  FOCUS     : Cybersecurity · Infra · Local AI        │
-│  LANGUAGES : Français · العربية · English            │
-│  MOTTO     : "If it can be monitored, monitor it."   │
-└──────────────────────────────────────────────────────┘
-EOF
-```
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-## `>_ neofetch`
+### 🛡️
+**Hardening systems**
 
-```text
-        .--.             zeliot0@earth
-       |o_o |            ------------------------------
-       |:_/ |            OS ........ Student / Builder
-      //   \ \           HOST ...... ESPRIT, Tunisia
-     (|     | )          SHELL ..... PowerShell / Bash
-    /'\_   _/`\          STACK ..... C# .NET Blazor Python SQL
-    \___)=(___/          FOCUS ..... Security / Infra / Local AI
-                         UPTIME .... mostly caffeinated
-                         STATUS .... open to collaborate
-```
+Security monitoring, network visibility and defensive tooling that keeps things safe.
 
-## `>_ cat current_projects.log`
+</td>
+<td width="33%" align="center" valign="top">
 
-```diff
-+ [ACTIVE]  Security & Network Monitor — Windows desktop app with a Dynamic Island-style UI
-+ [ACTIVE]  NeuroClaw — local cyberpunk AI terminal agent, runs fully offline
-+ [WORK]    Server monitoring platform (.NET / C# / Blazor)
-+ [WORK]    HR analytics dashboards & data pipelines
-- [TODO]    Sleep
-```
+### 🌐
+**Creating web experiences**
 
-## `>_ ls ~/arsenal`
+Dashboards and apps built with .NET, Blazor and modern web tech.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🏗️
+**Architecting the future**
+
+Data pipelines, servers, databases and AI that runs locally on your own machine.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🎓 &nbsp;Student at **ESPRIT** &nbsp;·&nbsp; 📍 &nbsp;**Tunisia** &nbsp;·&nbsp; 🗣️ &nbsp;Français · العربية · English
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=WHAT%20I'M%20BUILDING&fontSize=30&fontColor=00b8ff&animation=fadeIn&fontAlignY=50" width="100%" alt="Projects"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Security & Network Monitor
+A Windows desktop app with a slick **Dynamic Island-style UI** that watches security and network activity in real time.
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Cybersecurity-00ff9f?style=flat-square&labelColor=111"/> <img src="https://img.shields.io/badge/Status-Active-00ff9f?style=flat-square&labelColor=111"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NeuroClaw
+A **cyberpunk-themed AI agent** that runs entirely on your own machine. No cloud. No leaks.
+
+<img src="https://img.shields.io/badge/Local%20AI-ff00c8?style=flat-square&labelColor=111"/> <img src="https://img.shields.io/badge/Privacy--first-00b8ff?style=flat-square&labelColor=111"/> <img src="https://img.shields.io/badge/Status-Active-00ff9f?style=flat-square&labelColor=111"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Server Monitoring Platform
+Health, metrics and alerts for **TIMSOFT** in one live dashboard.
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 HR Analytics Tooling
+Data pipelines and dashboards that turn HR data into decision-ready insight.
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Dashboards-ffe600?style=flat-square&labelColor=111"/> <img src="https://img.shields.io/badge/Pipelines-00b8ff?style=flat-square&labelColor=111"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=TECH%20STACK&fontSize=30&fontColor=ff00c8&animation=fadeIn&fontAlignY=50" width="100%" alt="Tech stack"/>
 
 <div align="center">
 
@@ -75,93 +115,67 @@ EOF
 <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,github,githubactions,azure,nginx,kali&theme=dark" alt="infra"/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,grafana,prometheus,vscode,visualstudio&theme=dark" alt="tools"/>
 
-</div>
+<br/><br/>
 
-### `>_ skill.exe --level`
-
-```text
- C# / .NET .............  ████████████████░░░░  80%
- Blazor ................  ██████████████░░░░░░  70%
- SQL / DB Admin ........  ███████████████░░░░░  75%
- Python ................  ██████████████░░░░░░  70%
- Linux / Sysadmin ......  ██████████████░░░░░░  70%
- Cybersecurity .........  █████████████░░░░░░░  65%
- Local AI / LLM tools ..  ████████████░░░░░░░░  60%
- Coffee ................  ████████████████████  100%
-```
-
-## `>_ git log --pinned`
-
-<div align="center">
-
-<a href="https://github.com/zeliot0/DEVJAVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=DEVJAVA&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="DEVJAVA"/></a>
-<a href="https://github.com/zeliot0/Esprit-MARA-Tech2026-NEXA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=Esprit-MARA-Tech2026-NEXA&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="NEXA"/></a>
-
-<a href="https://github.com/zeliot0/-JARVIS-Clap-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=-JARVIS-Clap-Launcher&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="JARVIS"/></a>
-<a href="https://github.com/zeliot0/SAFEAI-NVIDIA-GOMYCODE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=SAFEAI-NVIDIA-GOMYCODE&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="SAFEAI"/></a>
+| Skill | Level |
+|:--|:--|
+| **C# / .NET** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| **Blazor / Web** | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| **SQL / Databases** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ |
+| **Python** | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| **Linux / Infra** | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ |
+| **Cybersecurity** | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
+| **Local AI** | 🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛ |
 
 </div>
-
-## `>_ nmap --stats zeliot0`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeliot0&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeliot0&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff9f&text_color=c9d1d9" alt="langs"/>
-
-<img src="https://streak-stats.demolab.com?user=zeliot0&theme=radical&hide_border=true&background=0a0a0a&ring=00ff9f&fire=ff00c8&currStreakLabel=00b8ff" alt="streak"/>
-
-</div>
-
-## `>_ ./snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zeliot0/zeliot0/output/github-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
-## `>_ cat roadmap.txt`
-
-```text
- [██████████] Build monitoring platform for TIMSOFT
- [████████░░] Security & Network Monitor (Dynamic Island UI)
- [███████░░░] NeuroClaw — local AI terminal agent
- [█████░░░░░] Deeper cybersecurity: pentesting & hardening
- [███░░░░░░░] Contribute to open-source security tools
-```
-
-<details>
-<summary><b>>_ ask --me about</b> (click to expand)</summary>
 
 <br/>
 
-```bash
-$ ask zeliot0 --topics
-  → .NET / C# / Blazor dashboards
-  → Server monitoring & infrastructure
-  → Database administration
-  → Cybersecurity & network tools
-  → Running AI models locally
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=FEATURED%20REPOS&fontSize=30&fontColor=ffe600&animation=fadeIn&fontAlignY=50" width="100%" alt="Repos"/>
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>>_ cat philosophy.txt</b> (click to expand)</summary>
+<a href="https://github.com/zeliot0/DEVJAVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=DEVJAVA&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="DEVJAVA"/></a>
+<a href="https://github.com/zeliot0/Esprit-MARA-Tech2026-NEXA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=Esprit-MARA-Tech2026-NEXA&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="NEXA"/></a>
+
+<a href="https://github.com/zeliot0/-JARVIS-Clap-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=-JARVIS-Clap-Launcher&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="JARVIS"/></a>
+<a href="https://github.com/zeliot0/SAFEAI-NVIDIA-GOMYCODE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zeliot0&repo=SAFEAI-NVIDIA-GOMYCODE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9" alt="SAFEAI"/></a>
+
+</div>
 
 <br/>
 
-```text
- 1. If it can be monitored, monitor it.
- 2. Local-first beats cloud-first when privacy matters.
- 3. Automate the boring thing the second time you do it.
- 4. Ship, break, harden, repeat.
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=GITHUB%20STATS&fontSize=30&fontColor=00ff9f&animation=fadeIn&fontAlignY=50" width="100%" alt="Stats"/>
 
-</details>
+<div align="center">
 
-## `>_ ./contact.sh`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zeliot0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00b8ff&text_color=c9d1d9&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeliot0&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" alt="languages"/>
+
+<img src="https://streak-stats.demolab.com?user=zeliot0&theme=radical&hide_border=true&background=0d1117&ring=00ff9f&fire=ff00c8&currStreakLabel=00b8ff" alt="streak"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/zeliot0/zeliot0/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=THE%20JOURNEY&fontSize=30&fontColor=00b8ff&animation=fadeIn&fontAlignY=50" width="100%" alt="Journey"/>
+
+| | |
+|:--|:--|
+| 🎓 **ESPRIT** | Engineering studies and the foundation of everything |
+| 🤖 **NVIDIA × GOMYCODE** | AI programs and the SafeAI project |
+| 🏢 **TIMSOFT** | Server monitoring platform and HR analytics tooling |
+| 🏆 **Esprit MARA Tech 2026** | Hackathon project NEXA |
+| 🚀 **Now** | Security & Network Monitor and NeuroClaw |
+| 🎯 **Next** | Pentesting skills and open-source security tools |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=LET'S%20CONNECT&fontSize=30&fontColor=ff00c8&animation=fadeIn&fontAlignY=50" width="100%" alt="Contact"/>
 
 <div align="center">
 
@@ -169,30 +183,10 @@ $ ask zeliot0 --topics
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-```text
-          /\
-         /  \
-        |    |
-        | ZT |        .  *   .      *
-       /|    |\    *     .    .  *
-      / |    | \       .    *
-     /__|____|__\   *     .     .
-        /_||_\
-         ****
-        ******        > launching next project...
-         ****
-          **
-
-  ┌─[zeliot0@earth]─[~]
-  └──╼ $ echo "thanks for stopping by" && exit 0
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:00b8ff,100:00ff9f&height=120&section=footer" width="100%" alt="footer"/>
+*"If it can be monitored, monitor it."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:00b8ff,100:00ff9f&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>

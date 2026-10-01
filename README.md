@@ -136,10 +136,6 @@ Data pipelines, servers, databases and local-first AI.
 
 <img src="https://streak-stats.demolab.com?user=zeliot0&theme=tokyonight&background=040810&border=00E5FF&ring=FFB300&fire=FF3D5A&currStreakLabel=00E5FF&sideLabels=CFEFFF&currStreakNum=CFEFFF&sideNums=CFEFFF&dates=5D7894" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zeliot0&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeliot0&bg_color=040810&color=00e5ff&line=ffb300&point=ff3d5a&area=true&area_color=8a5cff&hide_border=true&radius=10&custom_title=Contribution%20Pulse" alt="activity graph" width="100%"/>
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
